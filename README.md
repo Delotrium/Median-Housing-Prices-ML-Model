@@ -7,7 +7,7 @@ Using data from the 1990 census to plot and predict the median house value given
                                               File Guide:
 
 
-
+ <file guide soon to be posted>
 
 
 
